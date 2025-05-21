@@ -102,10 +102,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Would you like me to customize this further with your actual repo link or list of contributors?
